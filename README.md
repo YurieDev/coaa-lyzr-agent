@@ -36,6 +36,12 @@ Built entirely in [Lyzr Studio](https://studio.lyzr.ai), COAA:
 Watch the Youtube Demo here - (https://youtu.be/gkeEV4vVvuk?si=qhwbHk0QrinjtR_A)
 
 
+additionally, below there is a 3 slide animated presentation 
+
+
+https://github.com/user-attachments/assets/29323130-eb68-4f76-86a6-3e09c6a51821
+
+
 ---
 
 ## 👨‍💻 Developed By
