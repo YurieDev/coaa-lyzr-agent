@@ -42,6 +42,11 @@ additionally, below there is a 3 slide animated presentation
 
 https://github.com/user-attachments/assets/29323130-eb68-4f76-86a6-3e09c6a51821
 
+<img width="1892" height="1001" alt="Screenshot 2025-07-12 031627" src="https://github.com/user-attachments/assets/b3a253ee-472b-43fa-90ad-e126290f8a81" />
+<img width="1908" height="1015" alt="Screenshot 2025-07-12 031818" src="https://github.com/user-attachments/assets/65dcec9f-fb35-48b7-a856-5f279f95b92b" />
+<img width="1898" height="1029" alt="image" src="https://github.com/user-attachments/assets/e21882ea-c5e2-41ee-95f7-217dbbdac662" />
+<img width="1882" height="1016" alt="image" src="https://github.com/user-attachments/assets/aeba9fe3-4b80-40e1-befd-0cc3473fd4ff" />
+
 
 ---
 
