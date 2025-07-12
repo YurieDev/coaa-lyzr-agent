@@ -10,6 +10,7 @@ A Lyzr-powered AI agent that helps developers, teams, and businesses minimize cl
 - Offers workflow tips like batching, caching, and rate-limiting
 - Warns you about costly behavior:  
   > ⚠️ "You're running expensive tests too often—try batching!"
+  >It is also multilingual, making it accessible to a more diverse user base
 
 ## 🧠 How It Works
 
